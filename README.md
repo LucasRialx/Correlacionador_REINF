@@ -10,7 +10,7 @@ Este projeto é um programa Java para correlacionar codigos de um banco de dados
 ## Requisitos
 
 - Java JDK 8 ou superior
-
+- Java JDBC
 ## Organização do Projeto
 
 O projeto consiste nos seguintes arquivos:
@@ -28,7 +28,7 @@ O projeto consiste nos seguintes arquivos:
 
 1. Clone este repositório ou copie os arquivos para seu ambiente local.
 2. Navegue até o diretório do projeto onde o arquivo `Correlacionador.java` está localizado.
-3. Coloque seu arquivo CSV no mesmo diretório do arquivo `Correlacionador.java` e renomeie-o para `seu banco de dados`, ou ajuste o caminho do arquivo no código.
+3. Coloque seu caminho para o banco de dados em sql no mesmo diretório do arquivo `Correlacionador.java` e renomeie-o para `seu banco de dados`, ou ajuste o caminho do arquivo no código.
 4. Compile o código:
 
     ```sh
@@ -61,10 +61,6 @@ O projeto consiste nos seguintes arquivos:
 - **Ordenar código de serviço (SelectionSort)**: Ordena o CSV pela segunda coluna usando o algoritmo SelectionSort e imprime o resultado.
 - **Retornar código de natureza por código de serviço**: Solicita ao usuário um código de serviço, procura por ele na segunda coluna e retorna o código de natureza correspondente da primeira coluna. Se o código de serviço não for encontrado, informa que o código não existe.
 - **Encerrar o programa**: Finaliza a execução do programa.
-
-### Exemplo de CSV
-
-Seu arquivo banco de dados deve seguir o seguinte formato:
 
 ```banco
 123,456
