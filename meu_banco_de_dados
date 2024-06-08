@@ -1,0 +1,75 @@
+cod_nat_rend	descricao	cod_serv
+15003	Remuneração de Serviços de administração de bens ou negócios em geral, exceto consórcios ou fundos mútuos para aquisição de bens	17.12
+15004	Remuneração de Serviços de advocacia	17.14
+15005	Remuneração de Serviços de análise clínica laboratorial	04.02
+15005	Remuneração de Serviços de análise clínica laboratorial	05.03
+15006	Remuneração de Serviços de análises técnicas	17.01
+15006	Remuneração de Serviços de análises técnicas	17.09
+15007	Remuneração de Serviços de arquitetura	07.01
+15007	Remuneração de Serviços de arquitetura	07.19
+15008	Remuneração de Serviços de assessoria e consultoria técnica, exceto serviço de assistência técnica prestado a terceiros e concernente a ramo de indústria ou comércio explorado pelo prestador do serviço;	17.01
+15008	Remuneração de Serviços de assessoria e consultoria técnica, exceto serviço de assistência técnica prestado a terceiros e concernente a ramo de indústria ou comércio explorado pelo prestador do serviço;	17.03
+15009	Remuneração de Serviços de assistência social;	27.01
+15010	Remuneração de Serviços de auditoria;	17.16
+15011	Remuneração de Serviços de avaliação e perícia;	17.09
+15011	Remuneração de Serviços de avaliação e perícia;	28.01
+15012	Remuneração de Serviços de biologia e biomedicina;	30.01
+15012	Remuneração de Serviços de biologia e biomedicina;	04.01
+15013	Remuneração de Serviços de cálculo em geral;	17.18
+15014	Remuneração de Serviços de consultoria;	01.06
+15014	Remuneração de Serviços de consultoria;	17.01
+15014	Remuneração de Serviços de consultoria;	17.21
+15015	Remuneração de Serviços de contabilidade;	17.19
+15016	Remuneração de Serviços de desenho técnico;	23.01
+15016	Remuneração de Serviços de desenho técnico;	31.01
+15016	Remuneração de Serviços de desenho técnico;	32.02
+15017	Remuneração de Serviços de economia;	17.20
+15018	Remuneração de Serviços de elaboração de projetos;	07.03
+15019	Remuneração de Serviços de engenharia, exceto construção de estradas, pontes, prédios e obras assemelhadas;	07.01
+15019	Remuneração de Serviços de engenharia, exceto construção de estradas, pontes, prédios e obras assemelhadas;	07.19
+15020	Remuneração de Serviços de ensino e treinamento;	08.02
+15020	Remuneração de Serviços de ensino e treinamento;	17.24
+15021	Remuneração de Serviços de estatística;	17.21
+15022	Remuneração de Serviços de fisioterapia;	04.08
+15023	Remuneração de Serviços de fonoaudiologia;	04.08
+15024	Remuneração de Serviços de geologia;	07.01
+15025	Remuneração de Serviços de leilão;	17.13
+15026	Remuneração de Serviços de medicina, exceto aquela prestada por ambulatório, banco de sangue, casa de saúde, casa de recuperação ou repouso sob orientação médica, hospital e pronto-socorro;	04.01
+15027	Remuneração de Serviços de nutricionismo e dietética;	04.10
+15028	Remuneração de Serviços de odontologia;	04.12
+15029	Remuneração de Serviços de organização de feiras de amostras, congressos, seminários, simpósios e congêneres;	17.10
+15030	Remuneração de Serviços de pesquisa em geral;	02.01
+15030	Remuneração de Serviços de pesquisa em geral;	17.01
+15031	Remuneração de Serviços de planejamento;	01.08
+15031	Remuneração de Serviços de planejamento;	17.03
+15032	Remuneração de Serviços de programação;	01.01
+15032	Remuneração de Serviços de programação;	01.02
+15032	Remuneração de Serviços de programação;	01.04
+15032	Remuneração de Serviços de programação;	01.07
+15033	Remuneração de Serviços de prótese;	04.14
+15034	Remuneração de Serviços de psicologia e psicanálise;	04.15
+15034	Remuneração de Serviços de psicologia e psicanálise;	04.16
+15035	Remuneração de Serviços de química;	07.12
+15035	Remuneração de Serviços de química;	30.01
+15036	Remuneração de Serviços de radiologia e radioterapia;	04.02
+15037	Remuneração de Serviços de relações públicas;	35.01
+15037	Remuneração de Serviços de relações públicas;	35.01
+15038	Remuneração de Serviços de serviço de despachante;	33.01
+15039	Remuneração de Serviços de terapêutica ocupacional;	04.08
+15040	Remuneração de Serviços de tradução ou interpretação comercial;	17.02
+15041	Remuneração de Serviços de urbanismo;	07.01
+15042	Remuneração de Serviços de veterinária.	05.01
+15043	Remuneração de Serviços de Limpeza	07.10
+15043	Remuneração de Serviços de Limpeza	07.11
+15043	Remuneração de Serviços de Limpeza	14.02
+15044	Remuneração de Serviços de Conservação/ Manutenção, exceto reformas e obras assemelhadas	07.10
+15044	Remuneração de Serviços de Conservação/ Manutenção, exceto reformas e obras assemelhadas	07.11
+15044	Remuneração de Serviços de Conservação/ Manutenção, exceto reformas e obras assemelhadas	14.02
+15045	Remuneração de Serviços de Segurança/Vigilância/Transporte de valores	11.02
+15045	Remuneração de Serviços de Segurança/Vigilância/Transporte de valores	11.05
+15046	Remuneração de Serviços Locação de Mão de obra	17.05
+15047	Remuneração de Serviços de Assessoria Creditícia, Mercadológica, Gestão de Crédito, Seleção e Riscos e Administração de Contas a Pagar e a Receber	10.04
+15047	Remuneração de Serviços de Assessoria Creditícia, Mercadológica, Gestão de Crédito, Seleção e Riscos e Administração de Contas a Pagar e a Receber	10.04
+15052	Demais comissões, corretagens, ou qualquer outra importância paga/creditada pela representação comercial ou pela mediação na realização de negócios civis e comerciais, que não se enquadrem nas situações listadas nos códigos do grupo 20	10.09
+15099	Demais Rendimentos de serviços técnicos, de assistência técnica, de assistência administrativa e semelhantes	14.02
+15099	Demais Rendimentos de serviços técnicos, de assistência técnica, de assistência administrativa e semelhantes	31.01
