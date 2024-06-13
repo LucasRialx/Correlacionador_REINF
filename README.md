@@ -9,8 +9,9 @@ Este projeto é um programa Java para correlacionar codigos de um banco de dados
 
 ## Requisitos
 
-- Java JDK 8 ou superior
-- Java JDBC
+- Java JDK 8 ou superior.
+- Java JDBC (Necessario para conexão entre seu banco de dados em SQL com a IDE utilizada).
+  
 ## Organização do Projeto
 
 O projeto consiste nos seguintes arquivos:
