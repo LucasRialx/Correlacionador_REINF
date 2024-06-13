@@ -28,14 +28,15 @@ O projeto consiste nos seguintes arquivos:
 
 1. Clone este repositório ou copie os arquivos para seu ambiente local.
 2. Navegue até o diretório do projeto onde o arquivo `Correlacionador.java` está localizado.
-3. Coloque seu caminho para o banco de dados em sql no mesmo diretório do arquivo `Correlacionador.java` e renomeie-o para `seu banco de dados`, ou ajuste o caminho do arquivo no código.
-4. Compile o código:
+3. Crie um banco de dados em MySQL através do arquivo que se encontra neste GitHub meu_banco_de_dados.
+4. Coloque seu caminho para o banco de dados em SQL no mesmo diretório do arquivo `Correlacionador.java` e renomeie-o para `seu banco de dados`, ou ajuste o caminho do arquivo no código, informe usuario e senha correta do seu banco em SQL.
+5. Compile o código:
 
     ```sh
     javac --release 8 Correlacionador.java.java
     ```
 
-5. Execute o programa:
+6. Execute o programa:
 
     ```sh
     java Correlacionador.java
@@ -62,8 +63,3 @@ O projeto consiste nos seguintes arquivos:
 - **Retornar código de natureza por código de serviço**: Solicita ao usuário um código de serviço, procura por ele na segunda coluna e retorna o código de natureza correspondente da primeira coluna. Se o código de serviço não for encontrado, informa que o código não existe.
 - **Encerrar o programa**: Finaliza a execução do programa.
 
-```banco
-123,456
-789,101
-112,131
-415,161
