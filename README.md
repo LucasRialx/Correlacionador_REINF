@@ -68,3 +68,7 @@ O projeto consiste nos seguintes arquivos:
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+## Autores
+Lucas Rial
+Arthur Augusto
+
