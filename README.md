@@ -64,3 +64,7 @@ O projeto consiste nos seguintes arquivos:
 - **Retornar código de natureza por código de serviço**: Solicita ao usuário um código de serviço, procura por ele na segunda coluna e retorna o código de natureza correspondente da primeira coluna. Se o código de serviço não for encontrado, informa que o código não existe.
 - **Encerrar o programa**: Finaliza a execução do programa.
 
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
