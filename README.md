@@ -70,5 +70,5 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Autores
 Lucas Rial
-Arthur Augusto
+Arthur Augusto x
 
